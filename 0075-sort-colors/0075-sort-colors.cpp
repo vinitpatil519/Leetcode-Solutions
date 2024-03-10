@@ -6,8 +6,8 @@ public:
         //variable index is for traversing through the array
         //variables left and right are the two pointers starting from 1st and the last element resp.
         while(index <= right){
-            if(nums[mid] == 0){
-                swap(nums[low], nums[index]);
+            if(nums[index] == 0){
+                swap(nums[left], nums[index]);
                 left++;
                 index++;
             }
