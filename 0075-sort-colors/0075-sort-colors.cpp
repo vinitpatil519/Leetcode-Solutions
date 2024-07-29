@@ -1,4 +1,4 @@
-// two pointer approach/ dutch national flag approach
+// two (three) pointer approach/ "Dutch National Flag" approach
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
