@@ -1,23 +1,23 @@
-// two (three) pointer approach/ "Dutch National Flag" approach
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int left = 0, index = 0, right = nums.size()-1;
-        //variable index is for traversing through the array
-        //variables left and right are the two pointers starting from 1st and the last element resp.
-        while(index <= right){
-            if(nums[index] == 0){
-                swap(nums[left], nums[index]);
-                left++;
-                index++;
-            }
-            else if(nums[index] == 1){
-                index++;
-            }
-            else{
-                swap(nums[index], nums[right]);
-                right--;
-            }
+        int n = nums.size(), zero = 0, one = 0, two = 0;
+
+        for(int i=0; i<n; i++){
+            if(nums[i] == 0) zero++;
+            else if(nums[i] == 1) one++;
+            else if(nums[i] == 2) two++;
+            else continue;
+        }
+        nums.erase(nums.begin(), nums.end());
+        for(int i = 0; i < zero; i++){
+            nums.push_back(0);
+        }
+        for(int i = 0; i < one; i++){
+            nums.push_back(1);
+        }
+        for(int i = 0; i < two; i++){
+            nums.push_back(2);
         }
     }
 };
