@@ -8,6 +8,7 @@ Leetcode submissions are directly pushed into this repo by LeetHub v3
 | ------- | ------- |
 | [0015-3sum](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -21,6 +22,7 @@ Leetcode submissions are directly pushed into this repo by LeetHub v3
 | ------- | ------- |
 | [0015-3sum](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
