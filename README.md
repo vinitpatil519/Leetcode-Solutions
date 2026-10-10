@@ -39,9 +39,18 @@ Leetcode submissions are directly pushed into this repo by LeetHub v3
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
