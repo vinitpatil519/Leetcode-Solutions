@@ -14,6 +14,7 @@ Leetcode submissions are directly pushed into this repo by LeetHub v3
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -58,4 +59,8 @@ Leetcode submissions are directly pushed into this repo by LeetHub v3
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/vinitpatil519/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
